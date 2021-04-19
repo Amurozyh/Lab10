@@ -4,6 +4,8 @@
 
 Link to the blog:
 
+https://rcos.io/projects/tyromancer/faresplitter-backend/blog
+
 ## Checkpoint 1: Install MongoDB
 
 ![image](https://user-images.githubusercontent.com/61073477/115137473-ebe2af00-a058-11eb-9a3e-6b3154e0a761.png)
